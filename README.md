@@ -23,5 +23,8 @@ curl http://localhost:8080/
 ```
 
 ### Sources
+Les sources sont dans l'hôte, dans le répertoire www.
+
+### Liens
 
 - https://www.guillaume-leduc.fr/projet-installation-configuration-nginx-php-fpm.html
