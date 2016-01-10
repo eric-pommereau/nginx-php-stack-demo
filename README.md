@@ -1,6 +1,6 @@
 ## Serveur NGINX avec PHP (PHP-FPDM)
 
-### Simple exemple de montage d'un serveur web NGINX prenant en charge le PHP (avec PHP-FPDM)
+Un simple exemple de montage d'un serveur web NGINX prenant en charge le PHP (avec PHP-FPDM)
 
 ### !! Mac OS
 Sur Mac OS ajouter le plugin vboxfs (pour le sync folder) 
